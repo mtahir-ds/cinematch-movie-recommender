@@ -349,7 +349,7 @@ with st.sidebar:
             
             **Project by:** Muhammad Tahir
             - [LinkedIn](https://www.linkedin.com/in/muhammad-tahir-data/)
-            - [GitHub](https://github.com/MuhammadTahir-1-9-4/)
+            - [GitHub](https://github.com/mtahir-ds/)
         """)
 
 # -- the main page content --
